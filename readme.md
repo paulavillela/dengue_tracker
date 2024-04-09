@@ -6,7 +6,10 @@ This is a Streamlit web application for visualizing dengue cases and risk levels
 
 This application provides interactive maps and data visualization tools to explore dengue-related information in different cities of Minas Gerais. Users can select the year and epidemiological week to view the dengue cases and risk levels across various cities. The data is actively updated by INFO Dengue, a platform dedicated to providing information on Dengue and Chikungunya cases.
 
-![](images/map.png)
+<p align="center">
+    <img src="images/map.png">
+</p>
+
 
 ## Features
 
@@ -25,4 +28,4 @@ To run this application locally, you'll need to have Python and Streamlit instal
 
 ```bash
 pip install -r requirements.txt
-streamlit run dengue_tracker.py
+streamlit run home.py
