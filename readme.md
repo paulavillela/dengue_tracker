@@ -6,6 +6,8 @@ This is a Streamlit web application for visualizing dengue cases and risk levels
 
 This application provides interactive maps and data visualization tools to explore dengue-related information in different cities of Minas Gerais. Users can select the year and epidemiological week to view the dengue cases and risk levels across various cities. The data is actively updated by INFO Dengue, a platform dedicated to providing information on Dengue and Chikungunya cases.
 
+![](images/map.png)
+
 ## Features
 
 - Interactive choropleth map showing dengue cases and risk levels in Minas Gerais cities.

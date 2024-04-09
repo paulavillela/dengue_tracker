@@ -5,8 +5,8 @@ maxMessageSize = 500
 
 
 [theme]
-primaryColor="#1E90FF"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#333333"
+primaryColor="#e46e6a"
+backgroundColor="#f5f5f5"
+secondaryBackgroundColor="#dae4f7"
+textColor="#474747"
 font="sans serif"
